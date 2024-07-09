@@ -1,0 +1,30 @@
+// ignore: file_names
+import 'package:flutter/material.dart';
+
+class ThreeDShapesDrawer extends StatefulWidget {
+  const ThreeDShapesDrawer({super.key});
+
+  @override
+  State<ThreeDShapesDrawer> createState() => _ThreeDShapesDrawerState();
+}
+
+class _ThreeDShapesDrawerState extends State<ThreeDShapesDrawer> {
+  @override
+  Widget build(BuildContext context) {
+    return Drawer(
+      width: MediaQuery.of(context).size.width / 3,
+      child: const Column(
+        children: [
+          Padding(
+            padding: EdgeInsets.all(12.0),
+            child: Text(
+              'Choose 3D shape',
+              style: TextStyle(fontWeight: FontWeight.bold),
+            ),
+          ),
+          Text('Can be used out of demo mode.')
+        ],
+      ),
+    );
+  }
+}
