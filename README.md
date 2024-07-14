@@ -15,6 +15,16 @@
      <div style="width: 100%; display: flex; justify-content: space-between; padding: 10px; box-sizing: border-box;">
         <img src="https://github.com/user-attachments/assets/da3e84ef-2b06-4f8a-9bbd-34e8906d51f7" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
         <img src="https://github.com/user-attachments/assets/47770c9b-1d95-427d-838c-7b2dd8be6565" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
+        <img src="https://github.com/user-attachments/assets/79bcc166-5ac3-45ae-9b62-917e7d265d14" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
+     </div>
+     <div style="width: 100%; display: flex; justify-content: space-between; padding: 10px; box-sizing: border-box;">
+        <img src="https://github.com/user-attachments/assets/29123c15-e0c5-441f-bf02-ed4c134bcaa3" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
+        <img src="https://github.com/user-attachments/assets/5da6eee8-d00a-4a4e-a077-4f6ba8bc79f5" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
+        <img src="https://github.com/user-attachments/assets/f0a630de-33d0-403f-9a9e-2b1be8623c01" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
+     </div>
+     <div style="width: 100%; display: flex; justify-content: space-between; padding: 10px; box-sizing: border-box;">
+        <img src="https://github.com/user-attachments/assets/9259a59d-a6cf-4ef7-8628-c6650b5afd81" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
+        <img src="https://github.com/user-attachments/assets/88ba9737-b3a1-4515-9cba-dfc1eea243ae" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
      </div>
 </body>
 
