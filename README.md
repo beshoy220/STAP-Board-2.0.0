@@ -1,6 +1,6 @@
 <body styly="margin: 0; padding: 0; display: flex; justify-content: space-between;">
     <h2>STAP Board 2.0.0</h2>
-    <p>School board app for the whole classes of the school that is connect to school community where every one can use it, teachers, students and parents</p>
+    <p>School board app for the whole classes of the school that is connect to school community where teachers and students use it as a simple modern board to draw and illustrate inthe class and then share the board to the whole class through school community where any one aat class can access on their phone</p>
     <p>Works proaperly on web and desktop but dont forget to remove the html import lib to work on desktop</p>
     <h3>Those are some screenshots</h3>
     <div style="width: 100%; display: flex; justify-content: space-between; padding: 10px; box-sizing: border-box;">
